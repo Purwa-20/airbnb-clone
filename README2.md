@@ -1,6 +1,7 @@
 # Airbnb Clone
 
 A full-stack Airbnb-inspired web application that allows users to explore property listings, view details, and manage bookings.
+Full-stack Airbnb clone built with HTML, CSS, JavaScript, Node.js, Express, MongoDB, and SQL, featuring user authentication, property listings, and booking functionality.
 
 ##  Features
 
